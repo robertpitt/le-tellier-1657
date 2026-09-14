@@ -1,0 +1,1068 @@
+{
+  "title": "Le Tellier–Castelnau, 12 May 1657: working key",
+  "status": "SUBSTANTIAL PARTIAL DECIPHERMENT — NOT COMPLETE OR MANUSCRIPT-VERIFIED",
+  "date": "2026-09-14",
+  "ciphertext_sha256": "3618959aec3ceafc0e604f6bb34eb1eaaf120cf3675383081dbc0c64c3321459",
+  "tokens": 202,
+  "distinct_token_forms": 95,
+  "caveat": "One fixed candidate value per observed token. Counts of assigned positions are not a percentage of verified plaintext. Unknowns and boundary hypotheses remain visible.",
+  "entries": [
+    {
+      "token": "71",
+      "value": null,
+      "status": "boundary_hypothesis",
+      "count": 1,
+      "positions": [
+        1
+      ],
+      "note": "Initial boundary or null hypothesis only. Kept visible in strict output; no letter value established."
+    },
+    {
+      "token": "49",
+      "value": "do",
+      "status": "working_assignment",
+      "count": 3,
+      "positions": [
+        2,
+        93,
+        155
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "q",
+      "value": "b",
+      "status": "working_assignment",
+      "count": 2,
+      "positions": [
+        3,
+        12
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "~4",
+      "value": "li",
+      "status": "working_assignment",
+      "count": 4,
+      "positions": [
+        4,
+        79,
+        159,
+        191
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "57",
+      "value": "ge",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        5
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "3",
+      "value": "r",
+      "status": "working_assignment",
+      "count": 3,
+      "positions": [
+        6,
+        34,
+        84
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "~34",
+      "value": "si",
+      "status": "working_assignment",
+      "count": 4,
+      "positions": [
+        7,
+        11,
+        100,
+        179
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "q=",
+      "value": "l",
+      "status": "working_assignment",
+      "count": 2,
+      "positions": [
+        8,
+        176
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "\"13",
+      "value": "es",
+      "status": "working_assignment",
+      "count": 3,
+      "positions": [
+        9,
+        59,
+        189
+      ],
+      "note": "Fixed literal ES. EST in normalized French requires supplying T at positions 9 and 189. Position 59 remains in an unresolved span."
+    },
+    {
+      "token": "~20",
+      "value": "po",
+      "status": "working_assignment",
+      "count": 2,
+      "positions": [
+        10,
+        23
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "~3",
+      "value": "le",
+      "status": "working_assignment",
+      "count": 5,
+      "positions": [
+        13,
+        45,
+        58,
+        152,
+        193
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "a",
+      "value": "l",
+      "status": "working_assignment",
+      "count": 2,
+      "positions": [
+        14,
+        142
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "c",
+      "value": "e",
+      "status": "working_assignment",
+      "count": 3,
+      "positions": [
+        15,
+        80,
+        95
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "15",
+      "value": "s",
+      "status": "working_assignment",
+      "count": 4,
+      "positions": [
+        16,
+        51,
+        117,
+        131
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "\"12",
+      "value": "en",
+      "status": "working_assignment",
+      "count": 2,
+      "positions": [
+        17,
+        87
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "~13",
+      "value": "ne",
+      "status": "working_assignment",
+      "count": 3,
+      "positions": [
+        18,
+        22,
+        156
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "~9",
+      "value": "mi",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        19
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "4",
+      "value": "s",
+      "status": "working_assignment",
+      "count": 2,
+      "positions": [
+        20,
+        46
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "&",
+      "value": "a",
+      "status": "working_assignment",
+      "count": 2,
+      "positions": [
+        21,
+        192
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "h-",
+      "value": "i",
+      "status": "working_assignment",
+      "count": 3,
+      "positions": [
+        24,
+        63,
+        150
+      ],
+      "note": "I coheres in POINT and FAIRE. Position 63 is in the unresolved Meuse span."
+    },
+    {
+      "token": "ss",
+      "value": "n",
+      "status": "working_assignment",
+      "count": 2,
+      "positions": [
+        25,
+        166
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "16",
+      "value": "t",
+      "status": "working_assignment",
+      "count": 2,
+      "positions": [
+        26,
+        123
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "47",
+      "value": "de",
+      "status": "working_assignment",
+      "count": 3,
+      "positions": [
+        27,
+        148,
+        162
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "56",
+      "value": "ga",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        28
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "13",
+      "value": "r",
+      "status": "working_assignment",
+      "count": 6,
+      "positions": [
+        29,
+        89,
+        135,
+        145,
+        172,
+        194
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "~14",
+      "value": "ni",
+      "status": "working_assignment",
+      "count": 3,
+      "positions": [
+        30,
+        37,
+        94
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "14",
+      "value": "r",
+      "status": "working_assignment",
+      "count": 4,
+      "positions": [
+        31,
+        108,
+        138,
+        154
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "~30",
+      "value": "ro",
+      "status": "working_assignment",
+      "count": 5,
+      "positions": [
+        32,
+        48,
+        106,
+        170,
+        183
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "l",
+      "value": "c",
+      "status": "working_assignment",
+      "count": 5,
+      "positions": [
+        33,
+        85,
+        107,
+        139,
+        171
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "rp",
+      "value": "o",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        35
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "33",
+      "value": "y",
+      "status": "contextual_hypothesis",
+      "count": 3,
+      "positions": [
+        36,
+        110,
+        174
+      ],
+      "note": "Occurs in three spellings of Rocroi/Rocroy. I versus Y cannot be distinguished from these contexts; Y used provisionally."
+    },
+    {
+      "token": "p",
+      "value": "a",
+      "status": "working_assignment",
+      "count": 3,
+      "positions": [
+        38,
+        54,
+        143
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "51",
+      "value": "fa",
+      "status": "working_assignment",
+      "count": 4,
+      "positions": [
+        39,
+        71,
+        149,
+        178
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "ap",
+      "value": "i",
+      "status": "working_assignment",
+      "count": 3,
+      "positions": [
+        40,
+        165,
+        184
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "~28",
+      "value": "re",
+      "status": "working_assignment",
+      "count": 9,
+      "positions": [
+        41,
+        61,
+        65,
+        77,
+        147,
+        151,
+        168,
+        185,
+        199
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "~10",
+      "value": "mo",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        42
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "8",
+      "value": "n",
+      "status": "working_assignment",
+      "count": 2,
+      "positions": [
+        43,
+        126
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "\"34",
+      "value": "ter",
+      "status": "contextual_hypothesis",
+      "count": 1,
+      "positions": [
+        44
+      ],
+      "note": "TER is inferred from MO+N+TER; single occurrence, not an independently matched historical key entry."
+    },
+    {
+      "token": "18",
+      "value": "t",
+      "status": "working_assignment",
+      "count": 2,
+      "positions": [
+        47,
+        60
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "19",
+      "value": "u",
+      "status": "working_assignment",
+      "count": 2,
+      "positions": [
+        49,
+        122
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "~18",
+      "value": "pe",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        50
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "~23",
+      "value": "que",
+      "status": "working_assignment",
+      "count": 5,
+      "positions": [
+        52,
+        75,
+        91,
+        132,
+        186
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "\"48",
+      "value": null,
+      "status": "unresolved",
+      "count": 1,
+      "positions": [
+        53
+      ],
+      "note": "Unresolved code entry; do not replace with a guessed person or pronoun."
+    },
+    {
+      "token": "~53",
+      "value": null,
+      "status": "unresolved",
+      "count": 2,
+      "positions": [
+        55,
+        201
+      ],
+      "note": "Unresolved at both positions 55 and 201. It cannot simply be deleted at the end while given another value at position 55."
+    },
+    {
+      "token": "J-",
+      "value": "m",
+      "status": "contextual_hypothesis",
+      "count": 2,
+      "positions": [
+        56,
+        129
+      ],
+      "note": "M is inferred from TEMPS. Its earlier occurrence is in the unresolved Meuse span."
+    },
+    {
+      "token": "x-",
+      "value": null,
+      "status": "unresolved",
+      "count": 1,
+      "positions": [
+        57
+      ],
+      "note": "Unresolved graphic token in the Meuse span."
+    },
+    {
+      "token": "~33",
+      "value": "se",
+      "status": "working_assignment",
+      "count": 2,
+      "positions": [
+        62,
+        69
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "y-",
+      "value": null,
+      "status": "unresolved",
+      "count": 1,
+      "positions": [
+        64
+      ],
+      "note": "Unresolved graphic token in the Meuse span."
+    },
+    {
+      "token": "12",
+      "value": null,
+      "status": "unresolved",
+      "count": 1,
+      "positions": [
+        66
+      ],
+      "note": "Unresolved bare number. It is distinct from quoted \"12 = EN."
+    },
+    {
+      "token": "~8",
+      "value": "me",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        67
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "20",
+      "value": "u",
+      "status": "working_assignment",
+      "count": 6,
+      "positions": [
+        68,
+        72,
+        99,
+        112,
+        153,
+        161
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "\"17",
+      "value": "il",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        70
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "f",
+      "value": "d",
+      "status": "working_assignment",
+      "count": 4,
+      "positions": [
+        73,
+        146,
+        167,
+        198
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "~27",
+      "value": "ra",
+      "status": "working_assignment",
+      "count": 2,
+      "positions": [
+        74,
+        164
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "\"33",
+      "value": "vous",
+      "status": "working_assignment",
+      "count": 3,
+      "positions": [
+        76,
+        92,
+        175
+      ],
+      "note": "VOUS coheres in three separated passages."
+    },
+    {
+      "token": "z-",
+      "value": "g",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        78
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "31",
+      "value": "z",
+      "status": "working_assignment",
+      "count": 2,
+      "positions": [
+        81,
+        181
+      ],
+      "note": "Z gives REGLIEZ and FASIEZ with one fixed value. An earlier A hypothesis was rejected."
+    },
+    {
+      "token": "\"32",
+      "value": "vostre",
+      "status": "working_assignment",
+      "count": 2,
+      "positions": [
+        82,
+        188
+      ],
+      "note": "VOSTRE coheres in two separated passages. Modernized to VOTRE only in the editorial reading."
+    },
+    {
+      "token": "~7",
+      "value": "ma",
+      "status": "working_assignment",
+      "count": 3,
+      "positions": [
+        83,
+        137,
+        158
+      ],
+      "note": "MA gives MARCHE at positions 83 and 137. At position 158 it instead leaves DONE[2]MALIEU unresolved."
+    },
+    {
+      "token": "62",
+      "value": "he",
+      "status": "working_assignment",
+      "count": 2,
+      "positions": [
+        86,
+        140
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "~35",
+      "value": "so",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        88
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "~38",
+      "value": "te",
+      "status": "working_assignment",
+      "count": 2,
+      "positions": [
+        90,
+        128
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "9",
+      "value": "z",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        96
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "66",
+      "value": "ja",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        97
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "5~",
+      "value": "lo",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        98
+      ],
+      "note": "LO completes JALOUSIE. Input spelling 5~ is preserved; not silently changed to ~5."
+    },
+    {
+      "token": "h",
+      "value": "e",
+      "status": "working_assignment",
+      "count": 3,
+      "positions": [
+        101,
+        160,
+        180
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "~37",
+      "value": "ta",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        102
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "t",
+      "value": "n",
+      "status": "working_assignment",
+      "count": 3,
+      "positions": [
+        103,
+        196,
+        197
+      ],
+      "note": "N gives TANT at position 103. Positions 196 and 197 then give JONNDRE, not JOINDRE; no correction has been applied."
+    },
+    {
+      "token": "5",
+      "value": "t",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        104
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "p-",
+      "value": "a",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        105
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "ff",
+      "value": "o",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        109
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "~22",
+      "value": "qua",
+      "status": "working_assignment",
+      "count": 2,
+      "positions": [
+        111,
+        125
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "7",
+      "value": "x",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        113
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "m-",
+      "value": "p",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        114
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "~2",
+      "value": "la",
+      "status": "working_assignment",
+      "count": 3,
+      "positions": [
+        115,
+        136,
+        187
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "42",
+      "value": "ce",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        116
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "50",
+      "value": "du",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        118
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "61",
+      "value": "ha",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        119
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "6",
+      "value": "i",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        120
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "~12",
+      "value": "na",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        121
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "35",
+      "value": "et",
+      "status": "contextual_hypothesis",
+      "count": 1,
+      "positions": [
+        124
+      ],
+      "note": "ET fits HAINAUT ET QUAN...; single occurrence, not independently established."
+    },
+    {
+      "token": "\"25",
+      "value": "mesme",
+      "status": "contextual_hypothesis",
+      "count": 1,
+      "positions": [
+        127
+      ],
+      "note": "MESME is a contextual codeword hypothesis, occurring once; not independently recovered from a surviving codebook."
+    },
+    {
+      "token": "o",
+      "value": "p",
+      "status": "contextual_hypothesis",
+      "count": 1,
+      "positions": [
+        130
+      ],
+      "note": "P is inferred from TEMPS; single occurrence."
+    },
+    {
+      "token": "\"40",
+      "value": null,
+      "status": "unresolved",
+      "count": 1,
+      "positions": [
+        133
+      ],
+      "note": "Unresolved code entry, syntactically a subject of the following march clause. A commander is possible but not identified."
+    },
+    {
+      "token": "~17",
+      "value": "pa",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        134
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "~24",
+      "value": "qui",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        141
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "ap-",
+      "value": "o",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        144
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "2",
+      "value": null,
+      "status": "unresolved",
+      "count": 1,
+      "positions": [
+        157
+      ],
+      "note": "Unresolved in DONE[2]MALIEU; a null function has not been established."
+    },
+    {
+      "token": "m",
+      "value": "c",
+      "status": "working_assignment",
+      "count": 2,
+      "positions": [
+        163,
+        182
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "\"24",
+      "value": "pour",
+      "status": "working_assignment",
+      "count": 2,
+      "positions": [
+        169,
+        190
+      ],
+      "note": "POUR coheres in CRAINDRE POUR ROCROY and ES POUR LI ALER."
+    },
+    {
+      "token": "oo",
+      "value": "o",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        173
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "\"14",
+      "value": "eur",
+      "status": "contextual_hypothesis",
+      "count": 1,
+      "positions": [
+        177
+      ],
+      "note": "EUR gives L+EUR (LEUR). Single occurrence. An earlier ET hypothesis was rejected."
+    },
+    {
+      "token": "69",
+      "value": "jo",
+      "status": "working_assignment",
+      "count": 1,
+      "positions": [
+        195
+      ],
+      "note": "Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified."
+    },
+    {
+      "token": "~42",
+      "value": null,
+      "status": "unresolved",
+      "count": 1,
+      "positions": [
+        200
+      ],
+      "note": "Unresolved final entry. VA or a null function is not established."
+    },
+    {
+      "token": "72",
+      "value": null,
+      "status": "boundary_hypothesis",
+      "count": 1,
+      "positions": [
+        202
+      ],
+      "note": "Final boundary or null hypothesis only. Kept visible in strict output; no letter value established."
+    }
+  ]
+}

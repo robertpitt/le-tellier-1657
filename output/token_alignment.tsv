@@ -1,0 +1,203 @@
+position	cipher_token	candidate_expansion	status	strict_rendering	note
+1	71		boundary_hypothesis	[[BOUNDARY_OR_NULL?:71]]	Initial boundary or null hypothesis only. Kept visible in strict output; no letter value established.
+2	49	do	working_assignment	do	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+3	q	b	working_assignment	b	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+4	~4	li	working_assignment	li	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+5	57	ge	working_assignment	ge	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+6	3	r	working_assignment	r	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+7	~34	si	working_assignment	si	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+8	q=	l	working_assignment	l	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+9	"""13"	es	working_assignment	es	Fixed literal ES. EST in normalized French requires supplying T at positions 9 and 189. Position 59 remains in an unresolved span.
+10	~20	po	working_assignment	po	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+11	~34	si	working_assignment	si	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+12	q	b	working_assignment	b	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+13	~3	le	working_assignment	le	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+14	a	l	working_assignment	l	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+15	c	e	working_assignment	e	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+16	15	s	working_assignment	s	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+17	"""12"	en	working_assignment	en	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+18	~13	ne	working_assignment	ne	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+19	~9	mi	working_assignment	mi	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+20	4	s	working_assignment	s	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+21	&	a	working_assignment	a	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+22	~13	ne	working_assignment	ne	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+23	~20	po	working_assignment	po	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+24	h-	i	working_assignment	i	I coheres in POINT and FAIRE. Position 63 is in the unresolved Meuse span.
+25	ss	n	working_assignment	n	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+26	16	t	working_assignment	t	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+27	47	de	working_assignment	de	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+28	56	ga	working_assignment	ga	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+29	13	r	working_assignment	r	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+30	~14	ni	working_assignment	ni	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+31	14	r	working_assignment	r	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+32	~30	ro	working_assignment	ro	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+33	l	c	working_assignment	c	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+34	3	r	working_assignment	r	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+35	rp	o	working_assignment	o	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+36	33	y	contextual_hypothesis	y	Occurs in three spellings of Rocroi/Rocroy. I versus Y cannot be distinguished from these contexts; Y used provisionally.
+37	~14	ni	working_assignment	ni	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+38	p	a	working_assignment	a	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+39	51	fa	working_assignment	fa	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+40	ap	i	working_assignment	i	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+41	~28	re	working_assignment	re	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+42	~10	mo	working_assignment	mo	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+43	8	n	working_assignment	n	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+44	"""34"	ter	contextual_hypothesis	ter	TER is inferred from MO+N+TER; single occurrence, not an independently matched historical key entry.
+45	~3	le	working_assignment	le	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+46	4	s	working_assignment	s	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+47	18	t	working_assignment	t	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+48	~30	ro	working_assignment	ro	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+49	19	u	working_assignment	u	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+50	~18	pe	working_assignment	pe	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+51	15	s	working_assignment	s	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+52	~23	que	working_assignment	que	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+53	"""48"		unresolved	"[[UNRESOLVED:""48]]"	Unresolved code entry; do not replace with a guessed person or pronoun.
+54	p	a	working_assignment	a	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+55	~53		unresolved	[[UNRESOLVED:~53]]	Unresolved at both positions 55 and 201. It cannot simply be deleted at the end while given another value at position 55.
+56	J-	m	contextual_hypothesis	m	M is inferred from TEMPS. Its earlier occurrence is in the unresolved Meuse span.
+57	x-		unresolved	[[UNRESOLVED:x-]]	Unresolved graphic token in the Meuse span.
+58	~3	le	working_assignment	le	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+59	"""13"	es	working_assignment	es	Fixed literal ES. EST in normalized French requires supplying T at positions 9 and 189. Position 59 remains in an unresolved span.
+60	18	t	working_assignment	t	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+61	~28	re	working_assignment	re	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+62	~33	se	working_assignment	se	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+63	h-	i	working_assignment	i	I coheres in POINT and FAIRE. Position 63 is in the unresolved Meuse span.
+64	y-		unresolved	[[UNRESOLVED:y-]]	Unresolved graphic token in the Meuse span.
+65	~28	re	working_assignment	re	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+66	12		unresolved	[[UNRESOLVED:12]]	"Unresolved bare number. It is distinct from quoted ""12 = EN."
+67	~8	me	working_assignment	me	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+68	20	u	working_assignment	u	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+69	~33	se	working_assignment	se	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+70	"""17"	il	working_assignment	il	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+71	51	fa	working_assignment	fa	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+72	20	u	working_assignment	u	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+73	f	d	working_assignment	d	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+74	~27	ra	working_assignment	ra	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+75	~23	que	working_assignment	que	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+76	"""33"	vous	working_assignment	vous	VOUS coheres in three separated passages.
+77	~28	re	working_assignment	re	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+78	z-	g	working_assignment	g	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+79	~4	li	working_assignment	li	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+80	c	e	working_assignment	e	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+81	31	z	working_assignment	z	Z gives REGLIEZ and FASIEZ with one fixed value. An earlier A hypothesis was rejected.
+82	"""32"	vostre	working_assignment	vostre	VOSTRE coheres in two separated passages. Modernized to VOTRE only in the editorial reading.
+83	~7	ma	working_assignment	ma	MA gives MARCHE at positions 83 and 137. At position 158 it instead leaves DONE[2]MALIEU unresolved.
+84	3	r	working_assignment	r	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+85	l	c	working_assignment	c	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+86	62	he	working_assignment	he	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+87	"""12"	en	working_assignment	en	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+88	~35	so	working_assignment	so	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+89	13	r	working_assignment	r	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+90	~38	te	working_assignment	te	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+91	~23	que	working_assignment	que	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+92	"""33"	vous	working_assignment	vous	VOUS coheres in three separated passages.
+93	49	do	working_assignment	do	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+94	~14	ni	working_assignment	ni	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+95	c	e	working_assignment	e	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+96	9	z	working_assignment	z	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+97	66	ja	working_assignment	ja	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+98	5~	lo	working_assignment	lo	LO completes JALOUSIE. Input spelling 5~ is preserved; not silently changed to ~5.
+99	20	u	working_assignment	u	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+100	~34	si	working_assignment	si	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+101	h	e	working_assignment	e	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+102	~37	ta	working_assignment	ta	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+103	t	n	working_assignment	n	N gives TANT at position 103. Positions 196 and 197 then give JONNDRE, not JOINDRE; no correction has been applied.
+104	5	t	working_assignment	t	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+105	p-	a	working_assignment	a	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+106	~30	ro	working_assignment	ro	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+107	l	c	working_assignment	c	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+108	14	r	working_assignment	r	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+109	ff	o	working_assignment	o	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+110	33	y	contextual_hypothesis	y	Occurs in three spellings of Rocroi/Rocroy. I versus Y cannot be distinguished from these contexts; Y used provisionally.
+111	~22	qua	working_assignment	qua	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+112	20	u	working_assignment	u	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+113	7	x	working_assignment	x	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+114	m-	p	working_assignment	p	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+115	~2	la	working_assignment	la	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+116	42	ce	working_assignment	ce	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+117	15	s	working_assignment	s	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+118	50	du	working_assignment	du	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+119	61	ha	working_assignment	ha	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+120	6	i	working_assignment	i	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+121	~12	na	working_assignment	na	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+122	19	u	working_assignment	u	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+123	16	t	working_assignment	t	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+124	35	et	contextual_hypothesis	et	ET fits HAINAUT ET QUAN...; single occurrence, not independently established.
+125	~22	qua	working_assignment	qua	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+126	8	n	working_assignment	n	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+127	"""25"	mesme	contextual_hypothesis	mesme	MESME is a contextual codeword hypothesis, occurring once; not independently recovered from a surviving codebook.
+128	~38	te	working_assignment	te	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+129	J-	m	contextual_hypothesis	m	M is inferred from TEMPS. Its earlier occurrence is in the unresolved Meuse span.
+130	o	p	contextual_hypothesis	p	P is inferred from TEMPS; single occurrence.
+131	15	s	working_assignment	s	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+132	~23	que	working_assignment	que	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+133	"""40"		unresolved	"[[UNRESOLVED:""40]]"	Unresolved code entry, syntactically a subject of the following march clause. A commander is possible but not identified.
+134	~17	pa	working_assignment	pa	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+135	13	r	working_assignment	r	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+136	~2	la	working_assignment	la	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+137	~7	ma	working_assignment	ma	MA gives MARCHE at positions 83 and 137. At position 158 it instead leaves DONE[2]MALIEU unresolved.
+138	14	r	working_assignment	r	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+139	l	c	working_assignment	c	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+140	62	he	working_assignment	he	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+141	~24	qui	working_assignment	qui	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+142	a	l	working_assignment	l	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+143	p	a	working_assignment	a	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+144	ap-	o	working_assignment	o	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+145	13	r	working_assignment	r	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+146	f	d	working_assignment	d	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+147	~28	re	working_assignment	re	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+148	47	de	working_assignment	de	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+149	51	fa	working_assignment	fa	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+150	h-	i	working_assignment	i	I coheres in POINT and FAIRE. Position 63 is in the unresolved Meuse span.
+151	~28	re	working_assignment	re	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+152	~3	le	working_assignment	le	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+153	20	u	working_assignment	u	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+154	14	r	working_assignment	r	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+155	49	do	working_assignment	do	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+156	~13	ne	working_assignment	ne	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+157	2		unresolved	[[UNRESOLVED:2]]	Unresolved in DONE[2]MALIEU; a null function has not been established.
+158	~7	ma	working_assignment	ma	MA gives MARCHE at positions 83 and 137. At position 158 it instead leaves DONE[2]MALIEU unresolved.
+159	~4	li	working_assignment	li	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+160	h	e	working_assignment	e	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+161	20	u	working_assignment	u	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+162	47	de	working_assignment	de	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+163	m	c	working_assignment	c	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+164	~27	ra	working_assignment	ra	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+165	ap	i	working_assignment	i	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+166	ss	n	working_assignment	n	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+167	f	d	working_assignment	d	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+168	~28	re	working_assignment	re	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+169	"""24"	pour	working_assignment	pour	POUR coheres in CRAINDRE POUR ROCROY and ES POUR LI ALER.
+170	~30	ro	working_assignment	ro	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+171	l	c	working_assignment	c	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+172	13	r	working_assignment	r	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+173	oo	o	working_assignment	o	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+174	33	y	contextual_hypothesis	y	Occurs in three spellings of Rocroi/Rocroy. I versus Y cannot be distinguished from these contexts; Y used provisionally.
+175	"""33"	vous	working_assignment	vous	VOUS coheres in three separated passages.
+176	q=	l	working_assignment	l	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+177	"""14"	eur	contextual_hypothesis	eur	EUR gives L+EUR (LEUR). Single occurrence. An earlier ET hypothesis was rejected.
+178	51	fa	working_assignment	fa	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+179	~34	si	working_assignment	si	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+180	h	e	working_assignment	e	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+181	31	z	working_assignment	z	Z gives REGLIEZ and FASIEZ with one fixed value. An earlier A hypothesis was rejected.
+182	m	c	working_assignment	c	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+183	~30	ro	working_assignment	ro	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+184	ap	i	working_assignment	i	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+185	~28	re	working_assignment	re	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+186	~23	que	working_assignment	que	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+187	~2	la	working_assignment	la	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+188	"""32"	vostre	working_assignment	vostre	VOSTRE coheres in two separated passages. Modernized to VOTRE only in the editorial reading.
+189	"""13"	es	working_assignment	es	Fixed literal ES. EST in normalized French requires supplying T at positions 9 and 189. Position 59 remains in an unresolved span.
+190	"""24"	pour	working_assignment	pour	POUR coheres in CRAINDRE POUR ROCROY and ES POUR LI ALER.
+191	~4	li	working_assignment	li	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+192	&	a	working_assignment	a	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+193	~3	le	working_assignment	le	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+194	13	r	working_assignment	r	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+195	69	jo	working_assignment	jo	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+196	t	n	working_assignment	n	N gives TANT at position 103. Positions 196 and 197 then give JONNDRE, not JOINDRE; no correction has been applied.
+197	t	n	working_assignment	n	N gives TANT at position 103. Positions 196 and 197 then give JONNDRE, not JOINDRE; no correction has been applied.
+198	f	d	working_assignment	d	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+199	~28	re	working_assignment	re	Working assignment from the recovered text and/or regular syllabary; not independently manuscript-verified.
+200	~42		unresolved	[[UNRESOLVED:~42]]	Unresolved final entry. VA or a null function is not established.
+201	~53		unresolved	[[UNRESOLVED:~53]]	Unresolved at both positions 55 and 201. It cannot simply be deleted at the end while given another value at position 55.
+202	72		boundary_hypothesis	[[BOUNDARY_OR_NULL?:72]]	Final boundary or null hypothesis only. Kept visible in strict output; no letter value established.

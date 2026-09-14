@@ -1,0 +1,61 @@
+{
+  "ciphertext_sha256": "3618959aec3ceafc0e604f6bb34eb1eaaf120cf3675383081dbc0c64c3321459",
+  "token_count": 202,
+  "distinct_forms": 95,
+  "key_status_counts": {
+    "boundary_hypothesis": 2,
+    "working_assignment": 78,
+    "contextual_hypothesis": 7,
+    "unresolved": 8
+  },
+  "unresolved_positions": {
+    "\"48": [
+      53
+    ],
+    "~53": [
+      55,
+      201
+    ],
+    "x-": [
+      57
+    ],
+    "y-": [
+      64
+    ],
+    "12": [
+      66
+    ],
+    "\"40": [
+      133
+    ],
+    "2": [
+      157
+    ],
+    "~42": [
+      200
+    ]
+  },
+  "boundary_or_null_hypotheses": {
+    "71": [
+      1
+    ],
+    "72": [
+      202
+    ]
+  },
+  "coherent_core_positions": [
+    70,
+    123
+  ],
+  "coherent_core_tokens": 54,
+  "coherent_core_letters": 93,
+  "coherent_core": "ilfaudraquevousregliezvostremarcheensortequevousdoniezjalousietantarocroyquauxplacesduhainaut",
+  "checks_passed": [
+    "source SHA-256",
+    "202 tokens / 95 forms",
+    "one fixed entry per form",
+    "exact unresolved inventory",
+    "54-token core reproduced"
+  ],
+  "limitation": "These are reproducibility/consistency checks, not independent validation of the cryptanalytic solution."
+}
