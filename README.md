@@ -141,7 +141,6 @@ provides the working analysis; this repository packages it without claiming a
 new or complete decipherment. The manuscript photograph and website HTML are
 not included.
 
-Released under [CC0 1.0 Universal](LICENSE): the repository’s original code,
-analysis, and documentation are dedicated to the public domain to the extent
-permitted by law. Source attribution is retained; this dedication does not claim
-rights over third-party material.
+The repository’s original code, analysis, and documentation are released under
+the [MIT License](LICENSE). Source attribution is retained; this license does
+not claim rights over third-party material.
