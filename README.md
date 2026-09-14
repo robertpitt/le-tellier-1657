@@ -2,8 +2,9 @@
 
 A reproducible **partial decipherment** of a letter from Le Tellier to the
 Marquis de Castelnau: the ciphertext, proposed key, literal output, and readable
-solution. The reading is substantial but incomplete and has **not been checked
-against the original manuscript**.
+solution. The reading is substantial but incomplete. A [targeted manuscript-image
+review](MANUSCRIPT_REVIEW.md) resolves the transcription problem in *donnera lieu*
+and strengthens *joindre*. The complete transcription and key remain unverified.
 
 ## Input, key, and output
 
@@ -15,6 +16,7 @@ against the original manuscript**.
 | [output/strict_decoding.txt](output/strict_decoding.txt) | Literal output, retaining unknowns and possible boundary symbols. |
 | [output/token_alignment.tsv](output/token_alignment.tsv) | Each input token aligned with its proposed expansion and evidence status. |
 | [output/audit_summary.json](output/audit_summary.json) | Input hash, inventory, unresolved positions, and consistency checks. |
+| [MANUSCRIPT_REVIEW.md](MANUSCRIPT_REVIEW.md) | Follow-up image inspection, one supported transcription correction, and remaining hypotheses. |
 
 ## Readable solution
 
@@ -27,9 +29,12 @@ conjectures. The already-readable introduction is not part of this recovery.
 >
 > Il faudra que vous régliez votre marche en sorte que vous donniez jalousie tant
 > à Rocroi qu’aux places du Hainaut, et qu’en **[même ?]** temps que **[B : sujet
-> non identifié]**, par la marche qu’il a ordre de faire, leur **[C : donnera
-> lieu ?]** de craindre pour Rocroi, vous leur fassiez croire que la vôtre est
+> non identifié]**, par la marche qu’il a ordre de faire, leur **donnera lieu**
+> de craindre pour Rocroi, vous leur fassiez croire que la vôtre est
 > pour l’y aller **[joindre ?] [D : fin non résolue]**.
+
+*Donnera lieu* incorporates the image-supported correction C below. The checked-in
+input, key, and decoder output retain the original published transcription.
 
 The passage appears to direct a diversion: threaten Rocroi and the towns of
 Hainaut, discourage the enemy from withdrawing troops, and mislead them about
@@ -79,11 +84,12 @@ limitations are recorded in the key. Unobserved syllabary cells are omitted.
 | --- | --- |
 | A: 53–69 | The clause ending in `MEUSE` is unresolved; `"48`, `~53`, `x-`, `y-`, and `12` have no assigned value. |
 | B: 133 | `"40` may represent the subject of the following clause; no name is established. |
-| C: 155–161 | Literal `DONE[[UNRESOLVED:2]]MALIEU` does not give *donnera lieu*. In particular, `~7=MA` also occurs in *marche*. |
-| D: 195–201 | Literal `JONNDRE` requires an unexplained change to become *joindre*; `~42` and `~53` remain unknown. |
+| C: 155–161 | Image-supported correction: read original positions 157–158 (`2 ~7`) as one barred `27`. The existing key gives `DONERALIEU`, modernized as *donnera lieu*. |
+| D: 195–201 | The image suggests that the two marks transcribed `t t` differ. Assigning the first a conjectural I gives *joindre*; `~42` and `~53` remain unknown. |
 | 1 and 202 | `71` and `72` are possible boundary/null symbols, not established nulls. |
 
-The eight unknown forms occur at nine positions: `"48` (53), `~53` (55, 201),
+In the frozen published transcription, eight unknown forms occur at nine positions:
+`"48` (53), `~53` (55, 201),
 `x-` (57), `y-` (64), `12` (66), `"40` (133), `2` (157), and `~42` (200).
 
 The readable solution restores *est*, *possible*, *donniez*, *fassiez*, and
@@ -94,8 +100,9 @@ cannot be distinguished from I by these occurrences alone. Candidate `MESME`
 becomes *même ?*. Opening `71` and closing `72` are omitted only in the editorial
 reading; all gaps and boundary hypotheses remain visible in the literal output.
 
-These discrepancies could reflect spelling, transcription, original encipherment,
-or an incorrect assignment. They have not been resolved by manuscript inspection.
+The remaining discrepancies could reflect spelling, transcription, original
+encipherment, or an incorrect assignment. The follow-up review establishes neither
+a complete decipherment nor a general resolution of these problems.
 
 ## Reproduce
 
