@@ -135,7 +135,8 @@ do not supply a demonstrated matching key for the unresolved 1657 code groups.
 supports a masculine singular referent, potentially a commander. There is no
 internal repetition that distinguishes a particular name or title. No matching
 codebook or parallel plaintext identifying this code was located in this pass.
-Turenne and La Ferté remain historical suggestions, not deciphered values.
+The subsequent [historical comparison](FINDINGS.md) ranks La Ferté-Senneterre
+ahead of Turenne. Both remain historical suggestions, not deciphered values.
 
 The best next evidence would be the accompanying royal instructions, a parallel
 copy of this letter, or another letter using the same key. The source survey

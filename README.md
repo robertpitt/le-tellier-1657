@@ -17,6 +17,7 @@ and strengthens *joindre*. The complete transcription and key remain unverified.
 | [output/token_alignment.tsv](output/token_alignment.tsv) | Each input token aligned with its proposed expansion and evidence status. |
 | [output/audit_summary.json](output/audit_summary.json) | Input hash, inventory, unresolved positions, and consistency checks. |
 | [MANUSCRIPT_REVIEW.md](MANUSCRIPT_REVIEW.md) | Follow-up image inspection, one supported transcription correction, and remaining hypotheses. |
+| [FINDINGS.md](FINDINGS.md) | Historical candidates for the unidentified commander, with sources and limits. |
 
 ## Readable solution
 
@@ -40,6 +41,10 @@ The passage appears to direct a diversion: threaten Rocroi and the towns of
 Hainaut, discourage the enemy from withdrawing troops, and mislead them about
 the destination of Castelnau’s march. This interpretation comes from the partial
 reading; the identity of the other marching party remains unknown.
+
+**La Ferté-Senneterre is the leading historical candidate, with Turenne second.**
+This ranking concerns the fit to the campaign and the letter’s apparent deception;
+neither name has been recovered from `"40`. See [candidate evidence and limitations](FINDINGS.md).
 
 ## How the key works
 
@@ -83,7 +88,7 @@ limitations are recorded in the key. Unobserved syllabary cells are omitted.
 | Span (1-based, inclusive) | Remaining issue |
 | --- | --- |
 | A: 53–69 | The clause ending in `MEUSE` is unresolved; `"48`, `~53`, `x-`, `y-`, and `12` have no assigned value. |
-| B: 133 | `"40` may represent the subject of the following clause; no name is established. |
+| B: 133 | `"40` may represent the subject of the following clause. La Ferté leads the [historical shortlist](FINDINGS.md), but no name is established. |
 | C: 155–161 | Image-supported correction: read original positions 157–158 (`2 ~7`) as one barred `27`. The existing key gives `DONERALIEU`, modernized as *donnera lieu*. |
 | D: 195–201 | The image suggests that the two marks transcribed `t t` differ. Assigning the first a conjectural I gives *joindre*; `~42` and `~53` remain unknown. |
 | 1 and 202 | `71` and `72` are possible boundary/null symbols, not established nulls. |
