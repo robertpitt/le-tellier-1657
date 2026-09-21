@@ -6,6 +6,22 @@ solution. The reading is substantial but incomplete. A [targeted manuscript-imag
 review](MANUSCRIPT_REVIEW.md) resolves the transcription problem in *donnera lieu*
 and strengthens *joindre*. The complete transcription and key remain unverified.
 
+## External acknowledgement
+
+[Cryptiana’s “Solution of Le Tellier–Castelnau Cipher (1657)”](https://cryptiana.web.fc2.com/code/letellier.htm),
+published by Satoshi Tomokiyo on **17 September 2026**, presents this work as the
+letter’s solution, credits **Robert Pitt**, and links to this repository. It
+discusses the regular syllable assignments and states that its illustrated
+decoding adopts two transcription corrections from Pitt’s description. The page
+also acknowledges that some elements remain to be identified.
+
+**Alexandre P., the owner of the original letter, also contacted Robert by email**
+after seeing the work on Cryptiana, congratulating him on the decipherment and
+asking for an explanation of the method. Alexandre subsequently shared the link
+above. This records the owner’s acknowledgement and Cryptiana’s published
+assessment; neither establishes a value for every unresolved code group. The
+remaining gaps and conjectures are retained below.
+
 ## Input, key, and output
 
 | File | Purpose |
@@ -18,6 +34,7 @@ and strengthens *joindre*. The complete transcription and key remain unverified.
 | [output/audit_summary.json](output/audit_summary.json) | Input hash, inventory, unresolved positions, and consistency checks. |
 | [MANUSCRIPT_REVIEW.md](MANUSCRIPT_REVIEW.md) | Follow-up image inspection, one supported transcription correction, and remaining hypotheses. |
 | [FINDINGS.md](FINDINGS.md) | Historical candidates for the unidentified commander, with sources and limits. |
+| [REPORT.md](REPORT.md) | Original working report dated 14 September 2026, preceding the follow-up image review and external acknowledgement. |
 
 ## Readable solution
 
